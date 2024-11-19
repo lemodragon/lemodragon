@@ -50,13 +50,12 @@
   </picture>
    
   <div> </div>
+
    
   <!-- GitHub 奖杯&#127942; -->
-  <div><img src="https://github-profile-trophy.vercel.app/?username=buptsdz&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
- 
-</div>
- 
-<div> </div>
+  <div><img src="https://count.getloli.com/get/@lemodragon.github.readme?theme=rule34" style=" display: block; margin-left: auto; margin-right: auto; height: 160px"/><br/></div>
+
+  <div> </div>
  
 # Hello &#128075;, here is Sue ~
 <table>
