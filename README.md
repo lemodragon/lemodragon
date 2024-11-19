@@ -1,11 +1,9 @@
 <div align="center">
  
   <!-- dynamic typing effect 动态打字效果 -->
-  <a href="https://git.io/typing-svg">
-  
   <div>
     <a href="https://lvdpub.com">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7567E&center=%E9%94%99%E8%AF%AF%E7%9A%84&vCenter=%E9%94%99%E8%AF%AF%E7%9A%84&repeat=%E7%9C%9F%E7%9A%84&random=%E9%94%99%E8%AF%AF%E7%9A%84&width=435&lines=Hello%2C+I+am+Feifa%2C+welcome+to+your+arrival+" alt="Typing SVG" /></a>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7567E&center=%E9%94%99%E8%AF%AF%E7%9A%84&vCenter=%E9%94%99%E8%AF%AF%E7%9A%84&repeat=%E7%9C%9F%E7%9A%84&random=%E9%94%99%E8%AF%AF%E7%9A%84&width=435&lines=Hello%2C+I+am+Feifa;welcome+to+your+arrival+~" alt="Typing SVG" /></a>a>
     </a>
   </div>
  
@@ -38,26 +36,13 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=lemodragon&theme=xcode&bg_color=FF000000&hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=lemodragon&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lemodragon&theme=xcode&bg_color=FF000000&hide_border=true" />
+  <div class="MoeCounter"><img src="https://moe-counter.lvdpub.com/feifa:demo?theme=gelbooru-h&length=auto"style="display: block; height: 160px; max-width: 100%;" /></div>
   </picture>
-   
+  
   <div> </div>
   
 <table>
 <tr><td>
-
-<div align="center">
-    <picture>
-      <source aligh="center" media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=lemodragon&theme=dark&hide_border=true" />
-      <source aligh="center" media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=lemodragon&theme=light&hide_border=true" />
-      <img aligh="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lemodragon&theme=dark&hide_border=true" />
-    </picture>
-    <img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/lemodragon/lemodragon/assets/images/right.png" />
-    <div> </div>
-    <!-- metrics -->
-    <img width="150" src="https://cdn.jsdelivr.net/gh/lemodragon/lemodragon/assets/images/cxyduck.gif"/>
-    <img src="/github-metrics.svg">
-    <img width="150" src="https://cdn.jsdelivr.net/gh/lemodragon/lemodragon/assets/images/cxyduck.gif">
-</div>
  
 ### &#129520; Tools:
 <!--  skill badge 技能徽章 -->
@@ -83,7 +68,3 @@
   <!-- svg静态图 -->
   <img
 						src="https://skillicons.dev/icons?i=ps,ae,pr,au,ai,windows,gcp,debian,ubuntu,azure,linux,npm,nginx,vercel,html,js,cloudflare,vscode,py,css,mysql,svg,postman,gitlab,github,git,notion,apple,twitter,instagram">
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/lemodragon/lemodragon/assets/images/icon.png" />
-</div>
