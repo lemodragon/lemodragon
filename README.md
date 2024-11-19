@@ -60,48 +60,7 @@
 # Hello &#128075;, here is Sue ~
 <table>
 <tr><td>
- 
-  ### &#129338; About Me
-  <!-- 个人介绍 -->
-  <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/lemodragon/lemodragon/assets/images/computer.png"/>
- 
-  我现在就读**北京邮电大学**通信工程英才班，目前大四，已保研至**复旦大学**直博，人工智能方向
- 
-  - &#127793; 以后的研究方向是频率方向的**机器学习**和集成学习。
- 
-  - &#128218; 目前正在学习线性代数和矩阵的基础知识以及常见的模型和应用，包括自己做一些简单的**全栈开发**,希望能成为一名优秀的开发者。
- 
-  - &#10024; 我在我的语雀文档上分享我的学习 &#128284;[语雀·史迪仔](https://www.yuque.com/u39067637)
- 
-  - &#129300; 我是一个终身学习者，对编程、人工智能、数据科学和历史、经济学充满热情。
- 
-  - &#128101; 2024年初和朋友创业，是关于数据方向的，现在还在做，有兴趣的朋友可以来看看 &#9654;&#65039;[Sparkflare](http://www.sparkflare.cn)
-</td></tr>
- 
-<tr><td>
- 
-### &#127970; Study Experience
-<!-- 就读经历 -->
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/lemodragon/lemodragon/assets/images/bupt.png"/>
- 
-- [北京邮电大学](https://www.bupt.edu.cn/) &#8195; &#128204; 2021-09-01 —— Now
- 
-  - 学院：信息与通信工程学院
-  - 专业：通信工程
-   
-<div> </div>
- 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/lemodragon/lemodragon/assets/images/fdu.png" />
- 
-- [复旦大学](https://www.fdu.edu.cn/) &#8195; &#128204; 2025-09-01 —— 
- 
-  - 学院：智能复杂体系基础理论与关键技术实验室
-  - 研究方向：机器学习，集成学习，大模型
- 
-<div> </div>
-</td></tr>
-</table>
- 
+
 <div align="center">
     <!-- github-readme-streak-stats 连续提交代码天数记录 -->
     <img align="left" width="150" src="https://cdn.jsdelivr.net/gh/lemodragon/lemodragon/assets/images/left.png" />
@@ -141,27 +100,7 @@
    
   <!-- svg静态图 -->
   <img src="https://skillicons.dev/icons?i=git,postman,anaconda,pycharm,webstorm,linux,ubuntu,gmail,unity,mongodb,c,cpp"/>
-</div>
- 
-<!-- Gif -->
-<div align="center">
-  <img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" title="vscode">
-  <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
-  <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/python.webp">
-  <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="85" title="node">
-  <img height="95" width="95" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vue.webp">
-  <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" title="javascript">
-  <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
-  <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" title="css">
-</div>
- 
-<!-- profile-3d-contrib 3D 贡献图-->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/lemodragon/lemodragon/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/lemodragon/lemodragon/profile-3d-contrib/profile-gitblock.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/lemodragon/lemodragon/profile-3d-contrib/profile-night-rainbow.svg" />
-</picture>
- 
+
  
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/lemodragon/lemodragon/assets/images/icon.png" />
