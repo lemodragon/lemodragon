@@ -9,9 +9,9 @@
  
   <!-- knock code pictures 敲代码的图片 -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/lemodragon/lemodragon/assets/images/coding.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/lemodragon/lemodragon/assets/images/developer.svg" height="225px" />
-    <img src="https://cdn.jsdelivr.net/gh/lemodragon/lemodragon/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/developer.svg" height="225px" />
+    <img src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/coding.gif" />
   </picture>
  
   <!-- for beauty 留个空行好看点 -->
@@ -45,8 +45,6 @@
 <tr><td>
 
 <div align="center">
-    <!-- github-readme-streak-stats 连续提交代码天数记录 -->
-    <img align="left" width="150" src="https://cdn.jsdelivr.net/gh/lemodragon/lemodragon/assets/images/left.png" />
     <picture>
       <source aligh="center" media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=lemodragon&theme=dark&hide_border=true" />
       <source aligh="center" media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=lemodragon&theme=light&hide_border=true" />
@@ -82,9 +80,9 @@
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
    
   <!-- svg静态图 -->
-  <img src="https://skillicons.dev/icons?i=git,postman,anaconda,pycharm,webstorm,linux,ubuntu,gmail,unity,mongodb,c,cpp"/>
+  <img
+						src="https://skillicons.dev/icons?i=ps,ae,pr,au,ai,windows,gcp,debian,ubuntu,azure,linux,npm,nginx,vercel,html,js,cloudflare,vscode,py,css,mysql,svg,postman,gitlab,github,git,notion,apple,twitter,instagram">
 
- 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/lemodragon/lemodragon/assets/images/icon.png" />
 </div>
