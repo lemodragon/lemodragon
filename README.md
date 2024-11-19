@@ -1,9 +1,11 @@
 <div align="center">
  
   <!-- dynamic typing effect 动态打字效果 -->
+  <a href="https://git.io/typing-svg">
+  
   <div>
-    <a href="http://sue.sparkflare.cn/views/personal-introduction.html">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm Sue, welcome here!&#162;er=true&size=27" />
+    <a href="https://lvdpub.com">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7567E&center=%E9%94%99%E8%AF%AF%E7%9A%84&vCenter=%E9%94%99%E8%AF%AF%E7%9A%84&repeat=%E7%9C%9F%E7%9A%84&random=%E9%94%99%E8%AF%AF%E7%9A%84&width=435&lines=Hello%2C+I+am+Feifa%2C+welcome+to+your+arrival+" alt="Typing SVG" /></a>
     </a>
   </div>
  
@@ -39,8 +41,7 @@
   </picture>
    
   <div> </div>
- 
-# Hello &#128075;, here is Sue ~
+  
 <table>
 <tr><td>
 
