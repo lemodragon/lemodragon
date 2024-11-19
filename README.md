@@ -3,7 +3,7 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
     <a href="https://lvdpub.com">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7567E&center=%E9%94%99%E8%AF%AF%E7%9A%84&vCenter=%E9%94%99%E8%AF%AF%E7%9A%84&repeat=%E7%9C%9F%E7%9A%84&random=%E9%94%99%E8%AF%AF%E7%9A%84&width=435&lines=Hello%2C+I+am+Feifa;welcome+to+your+arrival+~" alt="Typing SVG" /></a>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7567E&center=%E9%94%99%E8%AF%AF%E7%9A%84&vCenter=%E9%94%99%E8%AF%AF%E7%9A%84&repeat=%E7%9C%9F%E7%9A%84&random=%E9%94%99%E8%AF%AF%E7%9A%84&width=435&lines=Hello%2C+I+am+Feifa;welcome+to+your+arrival+~" alt="Typing SVG"/></a>
     </a>
   </div>
  
@@ -36,7 +36,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=lemodragon&theme=xcode&bg_color=FF000000&hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=lemodragon&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lemodragon&theme=xcode&bg_color=FF000000&hide_border=true" />
-  <img src="https://moe-counter.lvdpub.com/feifa:demo?theme=gelbooru-h&length=auto"style="display: block; height: 160px; max-width: 100%;" /></div>
+  <img src="https://moe-counter.lvdpub.com/feifa:demo?theme=gelbooru-h&length=auto"style="display: block; height: 160px; max-width: 100%;" />
   </picture>
   
   <div> </div>
