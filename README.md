@@ -19,24 +19,13 @@
    
   <!-- profile logo 个人资料徽标 -->
   <div>
-    <a href="http://sue.sparkflare.cn"><img src="https://img.shields.io/badge/Website-个人网站-rgb(170, 220, 245)" /></a>&#8195;
-    <a href="https://www.xiaohongshu.com/user/profile/624e74200000000010005b95"><img src="https://img.shields.io/badge/Xiaoghongshu-小红书-rgb(255, 36, 66)" /></a>&#8195;
-    <a href="https://www.yuque.com/u39067637"><img src="https://img.shields.io/badge/Yuque-语雀-rgb(49, 204, 121)" /></a>&#8195;
-    <a href="https://space.bilibili.com/512181208?spm_id_from=333.1007.0.0"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&#8195;
-    <a href="http://sue.sparkflare.cn/mulu/mulu1.html"><img src="https://img.shields.io/badge/Poems-我写的诗-rgb(225, 224, 199)" /></a>&#8195;
-    <a href="http://www.sparkflare.cn"><img src="https://img.shields.io/badge/Sparkflare-星火-rgb(227, 52, 43)" /></a>&#8195;
+    <a href="http://lvdpub.com"><img src="https://img.shields.io/badge/Website-个人网站-rgb(170, 220, 245)" /></a>&#8195;
+    <a href="https://www.xiaohongshu.com/user/profile/62c33453000000001b028eb0"><img src="https://img.shields.io/badge/Xiaoghongshu-小红书-rgb(255, 36, 66)" /></a>&#8195;
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=lemodragon&label=Views&color=0e75b6&style=flat" alt="访问量统计" />&#8195;
     <!-- wakatime -->
     <!-- <a href="https://wakatime.com/@lemodragon"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg"/></a> -->
   </div>
-   
-  <!-- 活跃贪吃蛇 -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lemodragon/lemodragon/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lemodragon/lemodragon/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lemodragon/lemodragon/output/github-contribution-grid-snake.svg">
-  </picture>
    
   <!-- 个人信息统计 -->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lemodragon&show_icons=true&include_all_commits=true&hide_border=true" alt="Sue's github stats" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemodragon&layout=compact&theme=buefy&hide_border=true" />
@@ -49,12 +38,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lemodragon&theme=xcode&bg_color=FF000000&hide_border=true" />
   </picture>
    
-  <div> </div>
-
-   
-  <!-- GitHub 奖杯&#127942; -->
-  <div><img src="https://count.getloli.com/get/@lemodragon.github.readme?theme=rule34" style=" display: block; margin-left: auto; margin-right: auto; height: 160px"/><br/></div>
-
   <div> </div>
  
 # Hello &#128075;, here is Sue ~
