@@ -36,7 +36,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=lemodragon&theme=xcode&bg_color=FF000000&hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=lemodragon&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lemodragon&theme=xcode&bg_color=FF000000&hide_border=true" />
-  <img src="https://moe-counter.lvdpub.com/feifa:demo?theme=gelbooru-h&length=auto" />
+  <img src="https://moe-counter.lvdpub.com/feifa:demo?theme=gelbooru&length=auto"style="display: block; height: 160px; max-width: 100%;" />
   </picture>
   
   <div> </div>
@@ -58,7 +58,7 @@
   <!-- svg动图 -->
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right:35px; margin-bottom: 0px;" />
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 35px; margin-bottom: 0px;" /> 
-    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 35px; margin-bottom: 0px;" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 35px; margin-bottom: 0px;" />
   <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 35px; margin-bottom: 0px;" />
   <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 35px; margin-bottom: 0px;" />
   <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 35px; margin-bottom: 0px;" />
