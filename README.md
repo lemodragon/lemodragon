@@ -40,7 +40,7 @@
   </picture>
   
   <div>
-    <img src="https://moe-counter.lvdpub.com/feifa:demo?theme=gelbooru-h" style=" display: block; margin-left: auto; margin-right: auto; height: 160px"/>
+    <img src="https://moe-counter.lvdpub.com/feifa:demo?theme=gelbooru-h" style=" display: block; margin-left: auto; margin-right: auto; height: auto"/>
   </div>
   
 <table>
