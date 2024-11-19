@@ -9,9 +9,9 @@
  
   <!-- knock code pictures 敲代码的图片 -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/coding.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/developer.svg" height="225px" />
-    <img src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/lemodragon/lemodragon/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/lemodragon/lemodragon/assets/images/developer.svg" height="225px" />
+    <img src="https://cdn.jsdelivr.net/gh/lemodragon/lemodragon/assets/images/coding.gif" />
   </picture>
  
   <!-- for beauty 留个空行好看点 -->
@@ -26,27 +26,27 @@
     <a href="http://sue.sparkflare.cn/mulu/mulu1.html"><img src="https://img.shields.io/badge/Poems-我写的诗-rgb(225, 224, 199)" /></a>&#8195;
     <a href="http://www.sparkflare.cn"><img src="https://img.shields.io/badge/Sparkflare-星火-rgb(227, 52, 43)" /></a>&#8195;
     <!-- visitor -->
-    <img src="https://komarev.com/ghpvc/?username=buptsdz&label=Views&color=0e75b6&style=flat" alt="访问量统计" />&#8195;
+    <img src="https://komarev.com/ghpvc/?username=lemodragon&label=Views&color=0e75b6&style=flat" alt="访问量统计" />&#8195;
     <!-- wakatime -->
-    <!-- <a href="https://wakatime.com/@buptsdz"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg"/></a> -->
+    <!-- <a href="https://wakatime.com/@lemodragon"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg"/></a> -->
   </div>
    
   <!-- 活跃贪吃蛇 -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/buptsdz/buptsdz/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/buptsdz/buptsdz/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/buptsdz/buptsdz/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lemodragon/lemodragon/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lemodragon/lemodragon/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lemodragon/lemodragon/output/github-contribution-grid-snake.svg">
   </picture>
    
   <!-- 个人信息统计 -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=buptsdz&show_icons=true&include_all_commits=true&hide_border=true" alt="Sue's github stats" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buptsdz&layout=compact&theme=buefy&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lemodragon&show_icons=true&include_all_commits=true&hide_border=true" alt="Sue's github stats" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemodragon&layout=compact&theme=buefy&hide_border=true" />
    
    
   <!-- 活跃折线图 -->
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=buptsdz&theme=xcode&bg_color=FF000000&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=buptsdz&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=buptsdz&theme=xcode&bg_color=FF000000&hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=lemodragon&theme=xcode&bg_color=FF000000&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=lemodragon&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lemodragon&theme=xcode&bg_color=FF000000&hide_border=true" />
   </picture>
    
   <div> </div>
@@ -63,7 +63,7 @@
  
   ### &#129338; About Me
   <!-- 个人介绍 -->
-  <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/computer.png"/>
+  <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/lemodragon/lemodragon/assets/images/computer.png"/>
  
   我现在就读**北京邮电大学**通信工程英才班，目前大四，已保研至**复旦大学**直博，人工智能方向
  
@@ -82,7 +82,7 @@
  
 ### &#127970; Study Experience
 <!-- 就读经历 -->
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/bupt.png"/>
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/lemodragon/lemodragon/assets/images/bupt.png"/>
  
 - [北京邮电大学](https://www.bupt.edu.cn/) &#8195; &#128204; 2021-09-01 —— Now
  
@@ -91,7 +91,7 @@
    
 <div> </div>
  
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/fdu.png" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/lemodragon/lemodragon/assets/images/fdu.png" />
  
 - [复旦大学](https://www.fdu.edu.cn/) &#8195; &#128204; 2025-09-01 —— 
  
@@ -104,18 +104,18 @@
  
 <div align="center">
     <!-- github-readme-streak-stats 连续提交代码天数记录 -->
-    <img align="left" width="150" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/left.png" />
+    <img align="left" width="150" src="https://cdn.jsdelivr.net/gh/lemodragon/lemodragon/assets/images/left.png" />
     <picture>
-      <source aligh="center" media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=buptsdz&theme=dark&hide_border=true" />
-      <source aligh="center" media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=buptsdz&theme=light&hide_border=true" />
-      <img aligh="center" src="https://github-readme-streak-stats.herokuapp.com/?user=buptsdz&theme=dark&hide_border=true" />
+      <source aligh="center" media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=lemodragon&theme=dark&hide_border=true" />
+      <source aligh="center" media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=lemodragon&theme=light&hide_border=true" />
+      <img aligh="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lemodragon&theme=dark&hide_border=true" />
     </picture>
-    <img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/right.png" />
+    <img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/lemodragon/lemodragon/assets/images/right.png" />
     <div> </div>
     <!-- metrics -->
-    <img width="150" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/cxyduck.gif"/>
+    <img width="150" src="https://cdn.jsdelivr.net/gh/lemodragon/lemodragon/assets/images/cxyduck.gif"/>
     <img src="/github-metrics.svg">
-    <img width="150" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/cxyduck.gif">
+    <img width="150" src="https://cdn.jsdelivr.net/gh/lemodragon/lemodragon/assets/images/cxyduck.gif">
 </div>
  
 ### &#129520; Tools:
@@ -157,12 +157,12 @@
  
 <!-- profile-3d-contrib 3D 贡献图-->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/profile-3d-contrib/profile-gitblock.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/lemodragon/lemodragon/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/lemodragon/lemodragon/profile-3d-contrib/profile-gitblock.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/lemodragon/lemodragon/profile-3d-contrib/profile-night-rainbow.svg" />
 </picture>
  
  
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/icon.png" />
+  <img src="https://cdn.jsdelivr.net/gh/lemodragon/lemodragon/assets/images/icon.png" />
 </div>
