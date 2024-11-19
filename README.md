@@ -35,8 +35,9 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=lemodragon&theme=xcode&bg_color=FF000000&hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=lemodragon&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lemodragon&theme=xcode&bg_color=FF000000&hide_border=true" />
-  <img src="https://moe-counter.lvdpub.com/feifa:demo?theme=gelbooru&length=auto"style="display: block; height: 160px; max-width: 100%;" />
   </picture>
+  
+  <div><img src="https://moe-counter.lvdpub.com/feifa:demo?theme=gelbooru&length=auto"style="display: block; height: 160px; max-width: 100%;" /></div>
 
 ### &#129520; Tools:
 <!--  skill badge 技能徽章 -->
