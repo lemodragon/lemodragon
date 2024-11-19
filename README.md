@@ -36,8 +36,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=lemodragon&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lemodragon&theme=xcode&bg_color=FF000000&hide_border=true" />
   </picture>
-  
-  <div><img src="https://moe-counter.lvdpub.com/feifa:demo?theme=gelbooru&length=auto"style="display: block; height: 160px; max-width: 100%;" /></div>
+  <div>
+    <img src="https://count.getloli.com/get/@lemodragon.github.readme?theme=rule34" style=" display: block; margin-left: auto; margin-right: auto; height: 160px"/>
+  </div>
 
 ### &#129520; Tools:
 <!--  skill badge 技能徽章 -->
