@@ -39,7 +39,9 @@
   <img src="https://moe-counter.lvdpub.com/feifa:demo?theme=gelbooru&length=auto"style="display: block; height: 160px; max-width: 100%;" />
   </picture>
   
-  <div> </div>
+  <div>
+    <img src="https://moe-counter.lvdpub.com/feifa:demo?theme=gelbooru-h" style=" display: block; margin-left: auto; margin-right: auto; height: 160px"/>
+  </div>
   
 <table>
 <tr><td>
