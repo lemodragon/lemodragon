@@ -2,7 +2,7 @@
 
 <!-- Dynamic typing effect -->
 <div>
-  <a href="https://lvdpub.com">
+  <a href="https://demo.lvdpub.com">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7567E&center=true&vCenter=true&repeat=true&width=435&lines=Hello%2C+I+am+Feifa;welcome+to+your+arrival+~" alt="Typing SVG" />
   </a>
 </div>
@@ -19,7 +19,7 @@
 
   <!-- profile logo 个人资料徽标 -->
   <div>
-    <a href="http://lvdpub.com"><img src="https://img.shields.io/badge/Website-个人网站-rgb(170, 220, 245)" /></a>&#8195;
+    <a href="http://demo.lvdpub.com"><img src="https://img.shields.io/badge/Website-个人网站-rgb(170, 220, 245)" /></a>&#8195;
     <a href="https://www.xiaohongshu.com/user/profile/62c33453000000001b028eb0"><img src="https://img.shields.io/badge/Xiaoghongshu-小红书-rgb(255, 36, 66)" /></a>&#8195;
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=lemodragon&label=Views&color=0e75b6&style=flat" alt="访问量统计" />&#8195;
